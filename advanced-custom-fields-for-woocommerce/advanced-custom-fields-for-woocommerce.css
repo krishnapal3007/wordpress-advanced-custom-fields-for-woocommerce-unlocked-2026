@@ -1,0 +1,15 @@
+/*
+ * Advanced Custom Fields for WooCommerce 默认样式。
+ */
+
+.advanced-custom-fields-for-woocommerce-wrap {
+	margin: 0 auto;
+	max-width: 1080px;
+}
+
+.advanced-custom-fields-for-woocommerce-box {
+	background: #fff;
+	border: 1px solid #e2e4e7;
+	border-radius: 6px;
+	padding: 24px;
+}
